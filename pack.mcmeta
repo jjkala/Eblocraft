@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Вдохновлённый Еблограмом язык для Майнрафта"
+  },
+  "language": {
+    "ru_eb": {
+      "name": "Русский",
+      "region": "Еблокрафт",
+      "bidirectional": false
+    }
+  }
+}
