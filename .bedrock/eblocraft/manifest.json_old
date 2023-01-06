@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "9573994a-f7d2-11ec-b939-0242ac120002",
+    "name": "Eblocraft",
+    "packs_version": "0.0.1",
+    "description": "Вдохновлённый Еблограмом язык для Майнкрафта",
+    "modules": [
+      {
+        "description": "Вдохновлённый Еблограмом язык для Майнкрафта",
+        "version": "0.0.1",
+        "uuid": "10a1a189-b5e9-455b-b258-f3f153e7a1d3",
+        "type": "resources"
+      }
+    ]
+  }
+}
